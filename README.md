@@ -5,13 +5,17 @@
 
 - 🔭 I’m currently working on [Greneye - healing the Amazon rainforest from the sky!](https://github.com/TomasCDG/greeneye)
 
-- 👯 I’m looking to collaborate on [GoProject](https://github.com/julietahocsman/goproject)
+- 👯 I’m also working on [GoProject](https://github.com/julietahocsman/goproject)
+
+- And always teaching data science at Le Wagon!
 
 - 💬 Ask me about **Python, ML, Deep Learning, time series, anything!**
 
 - 📫 How to reach me **tomas.digennaro@gmail.com**
 
 - 📄 Know about my experiences [I studied environmental engineering before becoming a data scientist, If you have an environmental ML project going on, ask me!](I studied environmental engineering before becoming a data scientist, If you have an environmental ML project going on, ask me!)
+
+- ⚡ Fun fact **I'm always teaching instead of coding nowadays, so I barely commit anything, sorry!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
