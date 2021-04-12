@@ -5,7 +5,13 @@
 
 - 🔭 I’m currently working on [Greneye - healing the Amazon rainforest from the sky!](https://github.com/TomasCDG/greeneye)
 
-<img alt= "Greeneye" align= "left" width = 846 height = 148  src="https://github.com/TomasCDG/TomasCDG/blob/main/Greeneye.png">
+<img alt= "Greeneye" align= "left" width = 564 height = 148  src="https://github.com/TomasCDG/TomasCDG/blob/main/Greeneye.png">
+
+
+
+
+
+
 
 
 - 👯 I’m also working on [GoProject](https://github.com/julietahocsman/goproject)
