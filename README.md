@@ -7,14 +7,9 @@
 
 <p></img>
 
-<div>
-<div><img alignt ='center' alt= "Greeneye" align= "left" width = 564 height = 148  src="https://github.com/TomasCDG/TomasCDG/blob/main/Greeneye.png"></div>
-</div>
-<div style="clear: both">
-
+<img alignt ='center' alt= "Greeneye" align= "left" width = 1128 height = 280  src="https://github.com/TomasCDG/TomasCDG/blob/main/Greeneye.png"></div>
 
 - 👯 I’m also working on [GoProject](https://github.com/julietahocsman/goproject)
-
 
 - And always teaching data science at Le Wagon!
 
