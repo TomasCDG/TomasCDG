@@ -7,7 +7,11 @@
 
 <img alt= "Greeneye" align= "left" width = 564 height = 140  src="https://github.com/TomasCDG/TomasCDG/blob/main/Greeneye.png">
 
+
+
 - 👯 I’m also working on [GoProject](https://github.com/julietahocsman/goproject)
+
+<hr>
 
 - And always teaching data science at Le Wagon!
 
