@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Greneye - healing the Amazon rainforest from the sky!](https://github.com/TomasCDG/greeneye)
 
-<div style="text-align:center"><img src="https://github.com/TomasCDG/TomasCDG/Greeneye.png" /></div>
+<img alt=“Greeneye” src=“https://github.com/TomasCDG/TomasCDG/Greeneye.png”>
 
 - 👯 I’m also working on [GoProject](https://github.com/julietahocsman/goproject)
 
