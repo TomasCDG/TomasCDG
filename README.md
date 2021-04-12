@@ -8,7 +8,7 @@
 <p></img>
 
 <div>
-<div><img alt= "Greeneye" align= "left" width = 564 height = 148  src="https://github.com/TomasCDG/TomasCDG/blob/main/Greeneye.png"></div>
+<div><img alignt ='center' alt= "Greeneye" align= "left" width = 564 height = 148  src="https://github.com/TomasCDG/TomasCDG/blob/main/Greeneye.png"></div>
 </div>
 <div style="clear: both">
 
