@@ -3,11 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomascdg&label=Profile%20views&color=0e75b6&style=flat" alt="tomascdg" /> </p>
 
-- 🔭 I’m currently working on [Greneye - healing the Amazon rainforest from the sky!](https://github.com/TomasCDG/greeneye)
+- 🔭 I’m currently working on [Greneye - healing the Amazon rainforest from the sky!](https://github.com/TomasCDG/greeneye) <img alignt ='center' alt= "Greeneye" align= "left" width = 225 height = 56  src="https://github.com/TomasCDG/TomasCDG/blob/main/Greeneye.png"></div>
 
-<p></img>
-
-<img alignt ='center' alt= "Greeneye" align= "left" width = 1128 height = 280  src="https://github.com/TomasCDG/TomasCDG/blob/main/Greeneye.png"></div>
 
 - 👯 I’m also working on [GoProject](https://github.com/julietahocsman/goproject)
 
