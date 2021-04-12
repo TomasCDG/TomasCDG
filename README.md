@@ -11,7 +11,7 @@
 
 - 👯 I’m also working on [GoProject](https://github.com/julietahocsman/goproject)
 
-<hr>
+<br>
 
 - And always teaching data science at Le Wagon!
 
