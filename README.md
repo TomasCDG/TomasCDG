@@ -13,6 +13,7 @@
    
    + [Insurance caliming forecasting](https://github.com/valeria0801/Insurance_claiming_forecasting)
    + [Food Detective](https://github.com/tomasaltilio/Food_Detective)
+     
      .. And more soon!
 
 - 💬 Ask me about **Python, ML, Deep Learning, time series, anything!**
