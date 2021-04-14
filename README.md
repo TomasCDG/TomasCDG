@@ -10,6 +10,7 @@
 - And always teaching data science at Le Wagon!
 
 - I've also helped my beloved students code their own projects!:
+   
    +[Insurance caliming forecasting](https://github.com/valeria0801/Insurance_claiming_forecasting)
    + [Food Detective](https://github.com/tomasaltilio/Food_Detective)
      .. And more soon!
