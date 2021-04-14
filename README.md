@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **tomas.digennaro@gmail.com**
 
-- 📄 Fun fact 1  I studied environmental engineering before becoming a data scientist, If you have an environmental ML project going on, ask me!
+- 📄 Fun fact 1  I've graduated in environmental engineering before becoming a data scientist, If you have an environmental ML project going on, ask me!
 
 - ⚡ Fun fact 2 **I'm always teaching instead of coding nowadays, so I barely commit anything, sorry!**
 
