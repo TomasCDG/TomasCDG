@@ -16,7 +16,7 @@
      
      .. And more soon!
 
--Other Smaller hobbies: [CovidScraper](https://github.com/TomasCDG/covitracker), for practicing some web scraping from [Worlometers](https://www.worldometers.info/coronavirus/)
+-Other smaller hobbies: [CovidScraper](https://github.com/TomasCDG/covitracker), for practicing some web scraping from [Worlometers](https://www.worldometers.info/coronavirus/)
 
 - 💬 Ask me about **Python, ML, Deep Learning, time series, anything!**
 
