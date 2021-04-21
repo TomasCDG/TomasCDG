@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomascdg&label=Profile%20views&color=0e75b6&style=flat" alt="tomascdg" /> </p>
 
-- 🔭 I’m currently working on [Greneye - Healing the Amazon rainforest from the sky with Deep Learning](https://github.com/TomasCDG/greeneye) 
+- 🔭 I’m currently working on [Greneye - Healing the Amazon rainforest from the sky with Deep Learning](https://github.com/GuiVdwinden/greeneye) 
 
 - 👯 I’m also working on [GoProject - Analyzing and predicting parking lot demands in Buenos Aires](https://github.com/julietahocsman/goproject)
 
