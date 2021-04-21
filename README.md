@@ -3,18 +3,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomascdg&label=Profile%20views&color=0e75b6&style=flat" alt="tomascdg" /> </p>
 
-- 🔭 I’m currently working on [Greneye - healing the Amazon rainforest from the sky!](https://github.com/TomasCDG/greeneye) 
+- 🔭 I’m currently working on [Greneye - Healing the Amazon rainforest from the sky with Deep Learning](https://github.com/TomasCDG/greeneye) 
 
-- 👯 I’m also working on [GoProject](https://github.com/julietahocsman/goproject)
+- 👯 I’m also working on [GoProject - Analyzing and predicting parking lot demands in Buenos Aires](https://github.com/julietahocsman/goproject)
 
 - And always teaching data science at Le Wagon!
 
 - I've also helped my beloved students code their own projects!:
    
-   + [Insurance Claiming Forecasting](https://github.com/valeria0801/Insurance_claiming_forecasting)
-   + [Food Detective](https://github.com/tomasaltilio/Food_Detective)
+   + [Insurance Claiming Forecasting](https://github.com/valeria0801/Insurance_claiming_forecasting) 
+   + [Food Detective](https://github.com/tomasaltilio/Food_Detective) 
      
      .. And more soon!
+
+-Other Smaller hobbies: [CovidScraper](https://github.com/TomasCDG/covitracker), for practicing some web scraping from [Worlometers](https://www.worldometers.info/coronavirus/)
 
 - 💬 Ask me about **Python, ML, Deep Learning, time series, anything!**
 
