@@ -13,7 +13,7 @@
    
    + [Insurance Claiming Forecasting](https://github.com/valeria0801/Insurance_claiming_forecasting) 
    + [Food Detective](https://github.com/tomasaltilio/Food_Detective) 
-     
+      + [check their demo day!](https://youtu.be/5wcyq0DTD8Y)  
      .. And more soon!
 
 -Other smaller hobbies: [CovidScraper](https://github.com/TomasCDG/covitracker), for practicing some web scraping from [Worlometers](https://www.worldometers.info/coronavirus/)
