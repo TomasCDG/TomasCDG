@@ -1,6 +1,8 @@
 <h1 align="left">Hi there 👋, I'm Tomás</h1>
 <h3 align="left">Data Scientist, passionate about coding and teaching!</h3>
 
+<!--
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomascdg&label=Profile%20views&color=0e75b6&style=flat" alt="tomascdg" /> </p>
 
 - 🔭 I’m currently working on [Greneye - Healing the Amazon rainforest from the sky with Deep Learning](https://github.com/GuiVdwinden/greeneye) 
@@ -37,3 +39,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tomascdg&show_icons=true&locale=en&layout=compact" alt="tomascdg" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=tomascdg&show_icons=true&locale=en" alt="tomascdg" /></p>
+-->
